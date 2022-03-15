@@ -11,7 +11,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 
 *My main IDE is Visual Studio Code*
 
-***Social links:*** https://linktr.ee/SpaceN64
+***Social links:*** https://linktr.ee/SpaceN64 - ***Discord:*** SpaceN64
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=SpaceN64&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=SpaceN64&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
