@@ -14,5 +14,4 @@ My main IDE is Visual Studio Code
 ***Social links:*** https://linktr.ee/SpaceN64
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=SpaceN64&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=SpaceN64&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
