@@ -26,7 +26,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 <!--Link Buttons-->
 
   
-<a href="https://linkt.ree/SpaceN64">
+<a href="https://linktr.ee/SpaceN64">
   <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png" />
 </a>  
   
