@@ -30,3 +30,5 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 <a href="https://www.youtube.com/channel/UCziyyHdKX8gbVJzboONfbCA">
   <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png" />
 </a>
+<a href="https://discords.com/bio/p/SpaceN64" />
+  <img alt="Discord" width="auto" height="38" src="https://i.ibb.co/HNYR3Zp/button-discord-tag.png" />
