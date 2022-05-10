@@ -4,7 +4,7 @@ I'm a Python coder, and also HTML writer from Alberta, Canada 🇨🇦
 
 At the moment, I am trying to learn more about HTML, and expand my (already vast) knowledge of Python
 
-***Some Skills I Have in Python***
+***Some Skills I Have in Python 🐍***
 - Can do basically every simple writing of code
 - Can easily make my own module that can work with other modules effectivly and quickly
 - Can create servers, API connecters, etc programs with ease  
@@ -12,7 +12,6 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 *My main IDE is Visual Studio Code*
 
 <!--Github Stats-->
-
 <div align="center"> 
 
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=SpaceN64&theme=github_dark&show_icons=true&hide=stars&hide_border=1&line_height=28&card_width=450&include_all_commits=true" alt="My Github Stats lol:" />
@@ -24,8 +23,6 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 <h1> <h1/>
   
 <!--Link Buttons-->
-
-  
 <a href="https://linktr.ee/SpaceN64">
   <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png" />
 </a>  
@@ -33,4 +30,3 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 <a href="https://www.youtube.com/channel/UCziyyHdKX8gbVJzboONfbCA">
   <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png" />
 </a>
-  
