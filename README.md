@@ -18,6 +18,6 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=SpaceN64&theme=github_dark&show_icons=true&hide=stars&hide_border=1&line_height=28&card_width=450&include_all_commits=true" alt="My Github Stats lol:" />
 </a>
 
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceN64&theme=github_dark&langs_count=10&layout=compact&hide_border=1" alt="My Language Stats lol:" />
+  <img height=135 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceN64&theme=github_dark&langs_count=10&layout=compact&hide_border=1" alt="My Language Stats lol:" />
 </a>
 
