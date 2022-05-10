@@ -11,7 +11,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 
 *My main IDE is Visual Studio Code*
 
-***Social links:*** https://linktr.ee/SpaceN64 - ***Discord:*** *SpaceN64#7656*
+<!--Github Stats-->
 
 <div align="center"> 
 
@@ -21,3 +21,16 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
   <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceN64&theme=github_dark&langs_count=10&layout=compact&hide_border=1" alt="My Language Stats lol:" />
 </a>
 
+<h1> <h1/>
+  
+<!--Link Buttons-->
+
+  
+<a href="https://linkt.ree/SpaceN64">
+  <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png" />
+</a>  
+  
+<a href="https://www.youtube.com/channel/UCziyyHdKX8gbVJzboONfbCA">
+  <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png" />
+</a>
+  
