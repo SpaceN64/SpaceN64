@@ -11,6 +11,10 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 
 *My main IDE is Visual Studio Code*
 
+## My Announcements
+- Am at 120 subs, so thanks!
+- Since i am above 100 subs, youtube has given me the ability to have a custom channel link! Mine is **https://www.youtube.com/c/SpaceN64/**
+
 <!--Github Stats-->
 <div align="center"> 
 
