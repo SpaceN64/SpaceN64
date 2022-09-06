@@ -9,7 +9,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 - Can easily make my own module that can work with other modules effectivly and quickly
 - Can create servers, API connecters, etc programs with ease  
 
-*My main IDE is Visual Studio Code*
+*My main IDE is Visual Studio Code (I also use terminal too)*
 
 ## My Announcements
 - Am at 120 subs, so thanks!
