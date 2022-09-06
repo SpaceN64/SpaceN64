@@ -27,7 +27,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
   <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png" />
 </a>  
   
-<a href="https://www.youtube.com/channel/UCziyyHdKX8gbVJzboONfbCA">
+<a href="https://www.youtube.com/c/SpaceN64">
   <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png" />
 </a>
 <a href="https://discords.com/bio/p/SpaceN64" />
