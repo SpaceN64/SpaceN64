@@ -12,7 +12,7 @@ At the moment, I am trying to learn more about HTML, and expand my (already vast
 *My main IDE is Visual Studio Code (I also use terminal too)*
 
 ## My Announcements
-- Now i am at 140 subs, thanks!
+- Now i am at 160 subs, thanks!
 - Since i am above 100 subs, Youtube has given me the ability to have a custom channel link! Mine is **https://www.youtube.com/c/SpaceN64/**
 
 
