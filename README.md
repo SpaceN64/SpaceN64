@@ -2,18 +2,19 @@
 
 I'm a Python coder, and also HTML writer from Canada 🇨🇦
 
-At the moment, I am trying to learn more about HTML, and expand my (already vast) knowledge of Python
+At the moment, I am trying to learn more about HTML and Java, and expand my (already vast) knowledge of Python
 
 ***Some Skills I Have in Python 🐍***
 - Can do basically every simple writing of code
 - Can easily make my own module that can work with other modules effectivly and quickly
 - Can create servers, API connecters, etc programs with ease  
+- Can create windows and use them to do certain functions including becoming a text editor, tracking a person's expenses, etc!
 
 *My main IDE is Visual Studio Code (I also use terminal too)*
 
 ## My Announcements
-- Now i am at 160 subs, thanks!
-- Since i am above 100 subs, Youtube has given me the ability to have a custom channel link! Mine is **https://www.youtube.com/c/SpaceN64/**
+- 170 subs, wow! Thank you for the support!
+- Since I am above 100 subs, Youtube has given me the ability to have a custom channel link! My custom link is **https://www.youtube.com/c/SpaceN64/**
 
 
 <!--Github Stats-->
