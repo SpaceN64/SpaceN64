@@ -1,6 +1,6 @@
 ## Sup - I'm SpaceN64
 
-I'm a Python coder, and also HTML writer from Canada 🇨🇦
+I'm a Python coder, and also an HTML writer from Canada 🇨🇦
 
 At the moment, I am trying to learn more about HTML and Java, and expand my (already vast) knowledge of Python
 
