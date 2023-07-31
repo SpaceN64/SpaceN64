@@ -1,10 +1,10 @@
-## Sup - I'm SpaceN64 👨‍💻
+## Sup — I'm SpaceN64 👨‍💻
 
-I'm a Python programmer, and also an HTML writer from Canada 🇨🇦
+I'm a Python programmer, and also an HTML writer from Canada 🇨🇦.
 
 _At the moment, I am trying to learn more about *HTML* and *Java* and expanding my (already vast) knowledge of *Python*!_
 
-***Some Skills I Have in Python 🐍***
+## ***Some Skills I Have in Python 🐍***
 - Have mastered the basics of Python
 - Can create modules with multiple classes to efficiently and effectively simplify code
 - Can create servers, API connectors, etc programs with ease  
