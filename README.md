@@ -2,7 +2,7 @@
 
 I'm a Python programmer, and also an HTML writer from Canada 🇨🇦
 
-At the moment, I am trying to learn more about *HTML* and *Java* and expanding my (already vast) knowledge of *Python*!
+_At the moment, I am trying to learn more about *HTML* and *Java* and expanding my (already vast) knowledge of *Python*!_
 
 ***Some Skills I Have in Python 🐍***
 - Have mastered the basics of Python
