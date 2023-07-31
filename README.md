@@ -1,8 +1,8 @@
 ## Sup - I'm SpaceN64 👨‍💻
 
-I'm a Python coder, and also an HTML writer from Canada 🇨🇦
+I'm a Python programmer, and also an HTML writer from Canada 🇨🇦
 
-At the moment, I am trying to learn more about HTML and Java and expanding my (already vast) knowledge of Python!
+At the moment, I am trying to learn more about *HTML* and *Java* and expanding my (already vast) knowledge of *Python*!
 
 ***Some Skills I Have in Python 🐍***
 - Have mastered the basics of Python
@@ -10,10 +10,10 @@ At the moment, I am trying to learn more about HTML and Java and expanding my (a
 - Can create servers, API connectors, etc programs with ease  
 - Can create a standalone _"application"_ which can virtually execute its designated function
 
-*My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, and many more*
+**My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, and many more**
 
 ## My Announcements 📣
-- 200 SUBS AND +200k TOTAL CHANNEL VIEWS!!!! Thanks everyone for subscribing and viewing my videos :))))))
+- **200 SUBS AND +200k TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
 - Since I am above 100 subs (200 now, yay!), Youtube has given me the ability to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
 
 
