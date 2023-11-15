@@ -16,18 +16,6 @@ _At the moment, I am trying to learn more about *HTML* and *Java* and expanding 
 ## My Announcements 📣
 - **215 SUBS AND +230K TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
 - Since I am above 100 subs (215 now, yay!), Youtube has given me the ability to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
-
-
-<!--Github Stats-->
-<div align="center"> 
-
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=SpaceN64&theme=github_dark&show_icons=true&hide=stars&hide_border=1&line_height=28&card_width=450&include_all_commits=true" alt="My Github Stats lol:" />
-</a>
-
-  <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceN64&theme=github_dark&langs_count=10&layout=compact&hide_border=1" alt="My Language Stats lol:" />
-</a>
-
-<h1> <h1/>
   
 <!--Link Buttons-->
 <a href="https://linktr.ee/SpaceN64">
