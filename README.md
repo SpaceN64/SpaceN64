@@ -1,3 +1,4 @@
+<!-- Markdown -->
 ## Sup — I'm SpaceN64 👨‍💻
 
 I'm a Python programmer, and also an HTML writer from Canada 🇨🇦.
@@ -13,8 +14,8 @@ _At the moment, I am trying to learn more about *HTML* and *Java* and expanding 
 **My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, and many more**
 
 ## My Announcements 📣
-- **200 SUBS AND +200k TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
-- Since I am above 100 subs (200 now, yay!), Youtube has given me the ability to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
+- **215 SUBS AND +230K TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
+- Since I am above 100 subs (215 now, yay!), Youtube has given me the ability to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
 
 
 <!--Github Stats-->
