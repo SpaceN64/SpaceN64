@@ -18,15 +18,18 @@ _At the moment, I am trying to learn more about *HTML* and *Java* and expanding 
 - Since I am above 100 subs (215 now, yay!), YouTube has allowed me to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
 
 <!--Link Buttons-->
-<h1> <h1/>
-<div align="center">
+<h1> <h1/> 
 
+<div align="center">
+  
 <a href="https://linktr.ee/SpaceN64">
-  <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png" />
+  <img alt="Linktree" width="auto" height="38" src="https://i.ibb.co/q7Yv5fP/button-linktree.png"/>
 </a>  
   
 <a href="https://www.youtube.com/c/SpaceN64">
-  <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png" />
+  <img alt="Youtube" width="auto" height="38" src="https://i.ibb.co/VDZrwHP/button-youtube.png"/>
 </a>
+
 <a href="https://discords.com/bio/p/SpaceN64" />
-  <img alt="Discord" width="auto" height="38" src="https://i.ibb.co/HNYR3Zp/button-discord-tag.png" />
+  <img alt="Discord" width="auto" height="38" src="https://i.ibb.co/HNYR3Zp/button-discord-tag.png"/>
+</a>
