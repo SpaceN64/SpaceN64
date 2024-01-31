@@ -14,7 +14,7 @@ _At the moment, I am trying to learn more about *HTML* and *Java* and expanding 
 **My main IDE is Visual Studio Code, but I am comfortable with Pycharm, terminal, and many more**
 
 ## My Announcements 📣
-- **215 SUBS AND +230K TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
+- **220 SUBS AND +230K TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
 - Since I am above 100 subs (215 now, yay!), YouTube has allowed me to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
 
 <!--Link Buttons-->
