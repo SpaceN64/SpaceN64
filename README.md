@@ -15,7 +15,7 @@ _At the moment, I am trying to learn more about *HTML* and *Java* and expanding 
 
 ## My Announcements 📣
 - **220 SUBS AND +240K TOTAL CHANNEL VIEWS!!!!** Thanks everyone for subscribing and viewing my videos :))))))
-- Since I am above 100 subs (215 now, yay!), YouTube has allowed me to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
+- Since I am above 100 subs, YouTube has allowed me to have a custom channel link! My custom link is **[https://www.youtube.com/c/SpaceN64/](https://www.youtube.com/c/SpaceN64)**
 
 <!--Link Buttons-->
 <h1> <h1/> 
